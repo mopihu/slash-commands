@@ -1,0 +1,10 @@
+{
+  "inspect": ["ins", "look"],
+  "invite": ["invite", "inv"],
+  "drop": ["leave", "quit"],
+  "disband": ["disband"],
+  "guildinvite": ["guildinvite", "ginvite", "ginv"],
+  "guildquit": ["guildquit", "gquit", "gleave"],
+  "guilddisband": ["guilddisband", "gdisband"],
+  "reset": ["reset", "res"]
+}
