@@ -2,7 +2,7 @@
   "files": {
     "index.js": "2f60b259e24158d7f086aecea6d5f6c068b4831ac7d5be03b65b50993551051d",
     "module.json": "a92398d8d5ef89d704d22f9ee23dddbc19e9561e1340d5d0d8e985da4b66fe33",
-    "config.json": {"overwrite": false, "hash": "ad9974ee3c28a5a2ed70febef2479c087d09dc0ed78fcfc75c78bbd80583327c"},
+    "config.json": {"overwrite": false, "hash": "ad9974ee3c28a5a2ed70febef2479c087d09dc0ed78fcfc75c78bbd80583327c"}
   },
   "defs": {
     "C_REQUEST_USER_PAPERDOLL_INFO": 1,
