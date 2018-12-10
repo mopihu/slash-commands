@@ -1,4 +1,11 @@
 {
+    "disableAutoUpdate": false,
+    "name": "slash-commands",
+    "author": "mopihu",
+    "description": "A tera-proxy module to use in game commands via proxy.",
+    "version": "1.0",
     "servers": ["https://raw.githubusercontent.com/mopihu/slash-commands/master/"],
-    "supportUrl": ""
+    "options": {
+        "niceName": "SlashCommands"
+    }
 }
