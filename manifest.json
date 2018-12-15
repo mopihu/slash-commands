@@ -1,21 +1,21 @@
 {
-	"files": {
-		"README.md": "a12730d03c14a210b4b37094805852318c8078a8d8d571d2e5236a1e2b3aec77",
-		"config.json": {
-			"overwrite": false,
-			"hash": "caa34821079ecda89258f0ee10975163dc82bd2ff7f9809694aa2102cf9b88e8"
-		},
-		"index.js": "a0b531db6476a7b4f546d76faa426f86ac5ce7c41785d7acf3b5c51fe071d81e",
-		"module.json": "06c94bb74d4537e18c948d8e2a5e3ab35546d956d009a7510bb4bb3f06db8ef6"
-	},
-	"defs": {
-		"C_DESTROY_GUILD": 1,
-		"C_DISMISS_PARTY": 1,
-		"C_INVITE_USER_TO_GUILD": 1,
-		"C_LEAVE_GUILD": 1,
-		"C_LEAVE_PARTY": 1,
-		"C_REQUEST_CONTRACT": 1,
-		"C_REQUEST_USER_PAPERDOLL_INFO": 1,
-		"C_RESET_ALL_DUNGEON": 1
-	}
+    "files": {
+        "README.md": "a12730d03c14a210b4b37094805852318c8078a8d8d571d2e5236a1e2b3aec77",
+        "config.json": {
+            "overwrite": false,
+            "hash": "caa34821079ecda89258f0ee10975163dc82bd2ff7f9809694aa2102cf9b88e8"
+        },
+        "index.js": "a0b531db6476a7b4f546d76faa426f86ac5ce7c41785d7acf3b5c51fe071d81e",
+        "module.json": "c7e4a75a647c2975ccdff0a48baf9d89916282988b8334428274de9fbcd9952a"
+    },
+    "defs": {
+        "C_DESTROY_GUILD": 1,
+        "C_DISMISS_PARTY": 1,
+        "C_INVITE_USER_TO_GUILD": 1,
+        "C_LEAVE_GUILD": 1,
+        "C_LEAVE_PARTY": 1,
+        "C_REQUEST_CONTRACT": 1,
+        "C_REQUEST_USER_PAPERDOLL_INFO": 1,
+        "C_RESET_ALL_DUNGEON": 1
+    }
 }
